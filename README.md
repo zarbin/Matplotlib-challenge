@@ -1,8 +1,9 @@
 # Matplotlib Challenge - Homework 5
 UTA DataViz Bootcamp 
+11/28/2022
 
 
-#Pymaceuticals Inc. Analysis
+# Pymaceuticals Inc. Analysis
 
 Once duplicates were removed the mouse population = 248 (N = 248). Sex breakdown is 123 Female and 125 Male mice. Capomulin and Ramicane are the two most used drugs in treatment with Propriva being used the least. The success of the Capomulin treatment is evidenced in the line chart of mouse y793 as an example.
 
